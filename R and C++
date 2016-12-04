@@ -90,3 +90,4 @@ History
 Rcpp was initially written by Dominick Samperi to ease contributions to the RQuantLib project, and then released as a project in its own right. During 2006, Dominick made several releases under the RCpp name (versions 1.0 to 1.4) before he changed the name to RCppTemplate and made more releases (1.5 to 5.2). His project saw no public releases for the thirty-five months period from November 2006 to November 2009.
 
 
+Ref: http://dirk.eddelbuettel.com/code/rcpp.html
